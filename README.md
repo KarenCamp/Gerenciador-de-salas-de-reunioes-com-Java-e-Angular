@@ -1,1 +1,1 @@
-Me familiarizando mais com o Angular através da realização deste projeto junto à instrutora Kamilah, e também com as estruturas de apis, muito bom para o crescimento no conhecimento do desenvolvimento full-stack a que venho me propondo inserida neste bootcamp. 
+Me familiarizando mais com o Angular através da realização deste projeto junto à instrutora Kamilah, e também com as estruturas de apis rest, muito bom para o crescimento no conhecimento do desenvolvimento full-stack a que venho me propondo inserida neste bootcamp. 
